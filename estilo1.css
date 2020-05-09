@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+#container{
+    width: 500px;
+    background-color: yellow;
+}
+
+li{
+    font-size: 25px;
+    color: red;
+}
+
+img{
+    display:block;
+    margin:auto;
+    width: 300px;
+
+}
+
+a:visited {
+    color:green;
+  }
